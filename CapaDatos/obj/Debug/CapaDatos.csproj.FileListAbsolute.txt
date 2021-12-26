@@ -6,4 +6,3 @@ C:\Users\Bastian\source\repos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csp
 C:\Users\Bastian\source\repos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\Bastian\source\repos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Bastian\source\repos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\Bastian\source\repos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
