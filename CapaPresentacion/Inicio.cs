@@ -25,7 +25,9 @@ namespace CapaPresentacion
 
         public Inicio(Usuario objusuario)
         {
-            usuarioActual = objusuario;
+            if (objusuario == null) usuarioActual = new Usuario() { NombreCompleto = "Admin PreDefinido", IdUsaurio = 1 };
+            else { usuarioActual = objusuario; }
+           
             InitializeComponent();
         }
 
